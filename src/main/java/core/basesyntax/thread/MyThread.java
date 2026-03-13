@@ -8,4 +8,5 @@ public class MyThread extends Thread {
             System.out.println("I am the daemon thread!");
         }
     }
+
 }
